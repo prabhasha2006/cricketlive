@@ -1,0 +1,23 @@
+{
+  "name": "cricketlive",
+  "version": "1.0.0",
+  "description": "Get live cricket match details.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabhasha2006/cricketlive.git"
+  },
+  "keywords": [
+    "cricket",
+    "cricketlive"
+  ],
+  "author": "evelocore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prabhasha2006/cricketlive/issues"
+  },
+  "homepage": "https://github.com/prabhasha2006/cricketlive#readme"
+}
